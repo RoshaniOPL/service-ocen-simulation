@@ -11,15 +11,14 @@ Ensure you have Python and Django installed.
 2. Installing requirements
 You can install these packages using pip. Open your terminal or command prompt and run the following command:
 
-'''
+```
 pip install -r requirements.txt
-'''
-
+```
 3. Start the Django development server by running the following command:
 
-'''
+```
 python manage.py runserver
-'''
+```
 
 4. The API will be available at http://localhost:8000/.
 
