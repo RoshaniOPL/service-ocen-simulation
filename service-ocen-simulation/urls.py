@@ -1,5 +1,5 @@
 """
-URL configuration for service_ocen_simulation project.
+URL configuration for service-ocen-simulation project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.2/topics/http/urls/
